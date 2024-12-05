@@ -63,7 +63,27 @@ cd real-time-traffic-prediction
 ```bash
 pip install -r requirements.txt
 ```
+
 ### 3. Set API Keys
 - GRAPH_HOPPER_API_KEY=your_graphhopper_api_key
 - METEOMATICS_API_KEY=your_meteomatics_api_key
 
+### 4. Run the Application
+- **Jupyter Notebook**:
+  ```bash
+  jupyter notebook try.ipynb
+  ```
+- **Traffic Prediction Script**:
+  ```bash
+  python Automaic_Traffic_Prediction.py
+  ```
+## 🎨 Dashboard
+
+Run the Streamlit dashboard:
+```bash
+streamlit run dashboard.py
+```
+## 🧪 Results and Analysis
+
+- **Accuracy**: Achieved 95% accuracy using the Random Forest model.
+- **Real-Time Performance**: Processes predictions and adjusts signals with <1-second latency.
