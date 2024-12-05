@@ -58,3 +58,12 @@ Ensure the following are installed on your system:
 ```bash
 git clone https://github.com/your-username/real-time-traffic-prediction.git
 cd real-time-traffic-prediction
+```
+### 2. Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Set API Keys
+- GRAPH_HOPPER_API_KEY=your_graphhopper_api_key
+- METEOMATICS_API_KEY=your_meteomatics_api_key
+
