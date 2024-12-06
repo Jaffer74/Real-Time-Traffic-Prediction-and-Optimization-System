@@ -87,3 +87,6 @@ streamlit run dashboard.py
 
 - **Accuracy**: Achieved 95% accuracy using the Random Forest model.
 - **Real-Time Performance**: Processes predictions and adjusts signals with <1-second latency.
+
+## Documentation 
+- For detailed methodology, results, and analysis, see the [Detailed Report](Real-Time Traffic Prediction and Optimization.pdf).
