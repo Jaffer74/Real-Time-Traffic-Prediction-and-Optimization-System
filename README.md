@@ -89,4 +89,4 @@ streamlit run dashboard.py
 - **Real-Time Performance**: Processes predictions and adjusts signals with <1-second latency.
 
 ## Documentation 
-- For detailed methodology, results, and analysis, see the [Detailed Report](Real-Time Traffic Prediction and Optimization.pdf).
+- For detailed methodology, results, and analysis, see the [Detailed Report](https://github.com/Jaffer74/Real-Time-Traffic-Prediction-and-Optimization-System-/blob/main/Real-Time%20Traffic%20Prediction%20and%20Optimization%20.pdf).
