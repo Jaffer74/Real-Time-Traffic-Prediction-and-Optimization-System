@@ -35,7 +35,7 @@ This repository contains the implementation of a **Real-Time Traffic Prediction 
 ---
 
 ## 🌟 System Architecture
-![architecture](https://github.com/Jaffer74/Real-Time-Traffic-Prediction-and-Optimization-System/blob/main/architecture.png)
+![architecture](architecture.png)
 
 1. **Data Collection**: Collects real-time data from APIs and sensors (traffic, weather, GPS).
 2. **Preprocessing**: Data cleaning, normalization, and feature engineering.
