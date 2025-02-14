@@ -10,6 +10,7 @@ This repository contains the implementation of a **Real-Time Traffic Prediction 
 ## 🛠️ Features
 
 - **Real-Time Traffic Prediction**: Uses Random Forest and other ML models for accurate traffic predictions based on GPS, weather, and social data.
+![architecture](dynamic_prediction.png)
 - **Dynamic Signal Adjustments**: Automatically adapts traffic signal timings in real time.
 - **Cloud Integration**: Scalable storage and processing for handling large datasets.
 - **User-Friendly Dashboard**: Interactive interface for real-time monitoring and manual overrides.
