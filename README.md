@@ -1,6 +1,7 @@
 # Real-Time Traffic Prediction and Optimization System 🚦
 
 This repository contains the implementation of a **Real-Time Traffic Prediction and Optimization System** using advanced Machine Learning algorithms, cloud infrastructure, and multi-modal data integration. The system aims to enhance urban traffic management by predicting congestion, optimizing traffic signal timings, and suggesting alternate routes, ensuring smoother traffic flow and reduced congestion.
+![Home(home.png)
 
 ---
 
